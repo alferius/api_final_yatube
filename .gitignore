@@ -5,7 +5,8 @@ __pycache__/
 
 # C extensions
 *.so
-
+.isort.cfg
+yatube_api/test_api.http
 # Distribution / packaging
 .Python
 build/
